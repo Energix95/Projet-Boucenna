@@ -14,3 +14,4 @@ servo.setTarget(0,1000)
 #servo.setSpeed(0,50)     #set speed of servo 1
 #x = servo.getPosition(1) #get the current position of servo 1
 servo.close()
+#ça va?
